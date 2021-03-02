@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AnthonyGunardi/fancy-todo.git"
+    "url": "git+https://github.com/AnthonyGunardi/Fancy-Todo.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Anthony Gunardi",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/AnthonyGunardi/fancy-todo/issues"
+    "url": "https://github.com/AnthonyGunardi/Fancy-Todo/issues"
   },
-  "homepage": "https://github.com/AnthonyGunardi/fancy-todo#readme",
+  "homepage": "https://github.com/AnthonyGunardi/Fancy-Todo#readme",
   "dependencies": {
     "axios": "^0.21.1",
     "bcryptjs": "^2.4.3",
