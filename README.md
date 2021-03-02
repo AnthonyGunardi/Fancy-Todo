@@ -1,5 +1,5 @@
 # fancy-todo
-A simple todo apps, created using node.js, express, sequelize, postgres.
+A simple todo apps, created using node.js, express, sequelize, postgreSQL & jQuerry.
 
 
 ## URL
